@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Image To PDF</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="file_manager">File Manager</string>
+    <string name="generated_pdf">Generated PDF</string>
+
+    <string name="vw_rationale_storage">Need Reading Storage Permission for Picking Files</string>
+
+    <string name="total_image"><![CDATA[<b>%1$d</b> photo]]></string>
+    <string name="total_images"><![CDATA[<b>%1$d</b> photos]]></string>
+    <string name="selected_images">Selected Images</string>
+    <string name="convert_to_pdf_settings">Convert to PDF Settings</string>
+    <string name="file_name">File Name</string>
+    <string name="compress_images">Compress Images</string>
+    <string name="insert_white_margins">Insert White Margins?</string>
+    <string name="protect_with_password">Protect with password?</string>
+    <string name="password">Password</string>
+    <string name="orientation">Orientation</string>
+    <string name="cancel">Cancel</string>
+    <string name="converting_to_pdf">Converting To PDF</string>
+    <string name="please_wait">Please wait we are converting...</string>
+    <string name="converted_successfully">Converted Successfully</string>
+    <string name="share">Share</string>
+    <string name="open_with">Open with</string>
+
+    <string name="name_asc">Name Ascending</string>
+    <string name="name_desc">Name Descending</string>
+    <string name="date_asc">Date Ascending</string>
+    <string name="date_desc">Date Descending</string>
+    <string name="size_asc">Size Ascending</string>
+    <string name="size_desc">Size Descending</string>
+    <string name="rename">Rename</string>
+    <string name="delete_from_device">Delete from Device</string>
+
+</resources>
